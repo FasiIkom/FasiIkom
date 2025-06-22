@@ -6,8 +6,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FasiIkom&style=flat-square&color=blue" alt="profile views" />
   <img src="https://img.shields.io/github/followers/FasiIkom?style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/CTF-Player-orange?style=flat-square&logo=HackTheBox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Currently%20Learning-ML%20%26%20Data%20Science-brightgreen?style=flat-square" />
 </p>
 
 ---
