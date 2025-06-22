@@ -1,7 +1,7 @@
 <!-- Profil GitHub README -->
 
 <h1 align="center">Hi there 👋, I'm Muhammad Firaz Al Aqib</h1>
-<h3 align="center">💻 Computer Science Student @ Universitas Indonesia | 🔐 CTF & Cybersecurity Enthusiast | 📊 Data Science Learner</h3>
+<h3 align="center">💻 Computer Science Student @ Universitas Indonesia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=FasiIkom&style=flat-square&color=blue" alt="profile views" />
