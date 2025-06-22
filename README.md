@@ -14,8 +14,8 @@
 
 - 🎓 3rd-year Computer Science student at Universitas Indonesia  
 - 🧠 Passionate about security, data, and structured systems  
-- 🛡️ Love breaking things (in CTFs) and building reliable applications  
-- 💼 I also mentor and assist in programming courses at Fasilkom UI  
+- 🛡️ Love building reliable applications  
+- 👨‍🏫 I also serve as a **teaching assistant for programming courses** at Fasilkom UI  
 - 🎯 Goal: Contribute to impactful open-source or research-based projects
 
 ---
@@ -41,21 +41,6 @@
 
 ### 📌 Highlighted Projects
 
-- 🐍 **Hotel Booking Cancellation Classifier**  
-  → Decision Tree model for predicting `is_canceled` field from hotel reservation dataset  
-  → Manual feature engineering and encoding  
-  → `scikit-learn`, `pandas`, `matplotlib`  
-  [🔗 View Project](https://github.com/FasiIkom/242saurus)
-
-- 🔐 **PDA Generator & Validator** (for automata theory assignments)  
-  → Builds deterministic pushdown automaton (DPDA) based on custom constraints like `3k = 4m`, `5i > 3j`  
-  → Implemented in `Java` with recursive transitions  
-  → [🧠 Context: Formal Language & Automata Theory]
-
-- 🧾 **Simple Accounting App**  
-  → Generates financial reports for UMKM  
-  → Tables: `GL`, `GJ`, `IS`, `SoFP`, `TR_MYPAY`, etc.  
-  → Designed with business logic + clean schema
 
 ---
 
