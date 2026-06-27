@@ -58,9 +58,10 @@
 
 ### 📫 Let's Connect!
 
-- 📧 Email: [mfirazalaqib@gmail.com](mailto:mfirazalaqib@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/mfirazalaqib](https://linkedin.com/in/mfirazalaqib)  
-- 🐙 GitHub: [github.com/FasiIkom](https://github.com/FasiIkom)
+- Email: [mfirazalaqib@gmail.com](mailto:mfirazalaqib@gmail.com)  
+- LinkedIn: [linkedin.com/in/mfirazalaqib](https://linkedin.com/in/mfirazalaqib)  
+- GitHub: [github.com/FasiIkom](https://github.com/FasiIkom)
+- Portfolio: [firaz.my.id](https://firaz.my.id)
 
 ---
 
